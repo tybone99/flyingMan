@@ -1,0 +1,67 @@
+body{
+    font-family: 'Euphoria Script' , cursive;
+    width: 100%;
+    height: auto;
+    background: url('pics/dedede.jpg');
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin: 0 auto;
+    clear: both;
+    position: relative;
+    min-height: 860px;
+}
+canvas {
+    display: block;
+    position: absolute;
+    margin: auto;
+    margin-top: 250px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-radius: 5px;
+}
+.difclut{
+    font-size:355%;
+
+    color:darkslategrey;
+    padding-left: 600px;
+    padding-top: 10px;
+}
+.score
+{
+    color: darkslategrey;
+}
+.hscore{
+    color:darkslategrey;
+    font-size:288%;
+}
+.shine{
+
+
+}
+.buttonss {
+    float: right;
+    border:solid;
+    border-color: aqua;
+}
+.score{
+        font-size:288%;
+}
+.b{
+        font-size:222%;
+}
+.bb{
+
+        font-size:222%;
+
+}
+#titlesign{ width: 350px; height: 276px; background-image: url(pics/1904493.jpg); position: relative; left: -50%; top: 25px;}
+#container{position: absolute; left: 50%; z-index: 999;}
+#container2{position: absolute; left: 50%;}
+#backgrondwaves{ width: 813px; height: 468px; background-image:url(pics/1904493.jpg); position: relative; left: -49%; top: 250px;}
